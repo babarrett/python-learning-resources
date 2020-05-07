@@ -19,6 +19,8 @@ I’ve been looking into IDEs (integrated development environments) for Python.
 This one looks very, very nice. It has a really nice editor, and features that help you develop larger programs.
 List of very nice [YouTube](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP) tutorials. 
 Kind of complicated if Python if your first computer language, but lots support for best-practices.
+
+A variety of license choices.
 * Provides all the functionality for complex git work out of the box.
 * automatically tracks all the changes you made to your files and therefore protects you from accidentally losing these changes. You can inspect the history of files and directories and do rollbacks.
 * Debugging
@@ -27,11 +29,14 @@ Kind of complicated if Python if your first computer language, but lots support 
 * you can rename folders and files and they will update throughout the project
 * Unused function dimming, automatic import injection on paste, import autocomplete
 * 'go to declaration' / 'show usage' features
+* git source version control
 
 
 ### AceJump 
 * Let’s one jump around any JetBrains IDE effortlessly.
 
+### https://www.material-theme.com/  
+* More themes for JetBrains IDE (PyCharm)
 
 ### Sublime Text (editor)
 
