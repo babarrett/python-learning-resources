@@ -33,6 +33,7 @@ A variety of license choices.
 * Unused function dimming, automatic import injection on paste, import autocomplete
 * 'go to declaration' / 'show usage' features
 * git source version control
+* Download at [JetBrains](https://www.jetbrains.com/pycharm/download)
 
 
 ### AceJump 
