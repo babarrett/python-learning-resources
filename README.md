@@ -11,6 +11,9 @@ Started by Bruce Barrett, May, 2020 as he started teaching David about Python.
 ### Python on-line, interactive tutorial
 * JetBrains/[Hyperskill](https://hyperskill.org/curriculum)
 
+### Python exercises, Python in general
+* [Springer](https://link.springer.com/search?query=python&facet-content-type=%22Book%22&package=mat-covid19_textbooks) textbooks.
+
 ## Projects to consider.
 ### Conway's Game of Life
 It’s a little like a game. Not very hard to program. Mostly arrays.  
