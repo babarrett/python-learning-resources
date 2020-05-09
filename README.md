@@ -7,6 +7,7 @@ Started by Bruce Barrett, May, 2020 as he started teaching David about Python.
 ## Tutorials and Educational resources
 ### JetBrain's PyCharm for educators
 * [Start Guide](https://www.jetbrains.com/help/education/educator-start-guide.html#)
+* [Interview tips](https://realpython.com/python-coding-interview-tips/)
 
 ### Python on-line, interactive tutorial
 * JetBrains/[Hyperskill](https://hyperskill.org/curriculum)
