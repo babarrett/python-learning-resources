@@ -37,3 +37,39 @@ Computer: Does the animal you're thinking of have legs?
  Player: No
  Computer: I give up
 ```
+ 
+### Validate "numeric" input. (try and except and return)
+
+Complete the function definition for “validate_numeric" a function that makes sure the user entered a “legal” number.
+Floating point numbers and integers are both allowed.
+
+Your function should:
+* return the number (if valid). 
+* return it as the type entered (int or float)
+* return None if it is not a valid number
+ 
+
+You will need to use the “try” and “except” and “return” commands to complete this.
+(Look them up.)
+
+```
+def validate_numeric(num_str):
+	… your code here …
+	return converted_num  # it it’s a number, or
+	return None   # if it’s invalid
+```
+
+```
+# Main
+user_input = input('Enter a number ')
+result = validate_numeric(user_input)
+
+if type(result) == type(1):
+    print('The number entered is an integer. The value is: ' + str(result) )
+elif type(result) == type(1.1):
+    print('The number entered is floating point. The value is: ' + str(result) )
+elif (result) == None:
+    print('The number entered is not valid. The value you entered is: "' + user_input + '"')
+
+exit()
+```
